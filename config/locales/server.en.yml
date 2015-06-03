@@ -1,1 +1,6 @@
+# firehose
 
+en:
+  site_settings:
+    firehose_active: "Show Firehose in Admin Menu"
+    firehose_content: "Content types to filter out. Default shows EVERYTHING."
