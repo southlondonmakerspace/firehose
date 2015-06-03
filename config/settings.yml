@@ -1,1 +1,10 @@
+# firehose
 
+plugins:
+  below_sitemap_active:
+    default: false
+    client: true
+  below_sitemap_content:
+    default: ''
+    client: ''
+  
